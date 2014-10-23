@@ -15,7 +15,7 @@ public class GeneradoScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	    if (Time.time > timer) {
-			var altura = Random.Range(-1.5f,1.5f);
+			var altura = Random.Range(-1f,1.5f);
 
 
 
