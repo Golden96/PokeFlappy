@@ -20,6 +20,8 @@ public void restart(){
 
 	animacion_panel.SetBool ("MuestraMenu", false);
 	Application.LoadLevel (Application.loadedLevel);
+		GameControl.dead = false;
+		GameControl.score = 0;
 }
 
 public void quit(){
