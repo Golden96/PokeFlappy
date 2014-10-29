@@ -1,0 +1,961 @@
+fileFormatVersion: 2
+guid: 2f92f90a2b3d76c4880dc04744bd0024
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pokemon
+    21300002: Pokemon_0
+    21300004: Pokemon_1
+    21300006: Pokemon_2
+    21300008: Pokemon_3
+    21300010: Pokemon_4
+    21300012: Pokemon_5
+    21300014: Pokemon_6
+    21300016: Pokemon_7
+    21300018: Pokemon_8
+    21300020: Pokemon_9
+    21300022: Pokemon_10
+    21300024: Pokemon_11
+    21300026: Pokemon_12
+    21300028: Pokemon_13
+    21300030: Pokemon_14
+    21300032: Pokemon_15
+    21300034: Pokemon_16
+    21300036: Pokemon_17
+    21300038: Pokemon_18
+    21300040: Pokemon_19
+    21300042: Pokemon_20
+    21300044: Pokemon_21
+    21300046: Pokemon_22
+    21300048: Pokemon_23
+    21300050: Pokemon_24
+    21300052: Pokemon_25
+    21300054: Pokemon_26
+    21300056: Pokemon_27
+    21300058: Pokemon_28
+    21300060: Pokemon_29
+    21300062: Pokemon_30
+    21300064: Pokemon_31
+    21300066: Pokemon_32
+    21300068: Pokemon_33
+    21300070: Pokemon_34
+    21300072: Pokemon_35
+    21300074: Pokemon_36
+    21300076: Pokemon_37
+    21300078: Pokemon_38
+    21300080: Pokemon_39
+    21300082: Pokemon_40
+    21300084: Pokemon_41
+    21300086: Pokemon_42
+    21300088: Pokemon_43
+    21300090: Pokemon_44
+    21300092: Pokemon_45
+    21300094: Pokemon_46
+    21300096: Pokemon_47
+    21300098: Pokemon_48
+    21300100: Pokemon_49
+    21300102: Pokemon_50
+    21300104: Pokemon_51
+    21300106: Pokemon_52
+    21300108: Pokemon_53
+    21300110: Pokemon_54
+    21300112: Pokemon_55
+    21300114: Pokemon_56
+    21300116: Pokemon_57
+    21300118: Pokemon_58
+    21300120: Pokemon_59
+    21300122: Pokemon_60
+    21300124: Pokemon_61
+    21300126: Pokemon_62
+    21300128: Pokemon_63
+    21300130: Pokemon_64
+    21300132: Pokemon_65
+    21300134: Pokemon_66
+    21300136: Pokemon_67
+    21300138: Pokemon_68
+    21300140: Pokemon_69
+    21300142: Pokemon_70
+    21300144: Pokemon_71
+    21300146: Pokemon_72
+    21300148: Pokemon_73
+    21300150: Pokemon_74
+    21300152: Pokemon_75
+    21300154: Pokemon_76
+    21300156: Pokemon_77
+    21300158: Pokemon_78
+    21300160: Pokemon_79
+    21300162: Pokemon_80
+    21300164: Pokemon_81
+    21300166: Pokemon_82
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pokemon_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 140
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 140
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 140
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 140
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 140
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 140
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 140
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 140
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 119
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 119
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 119
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 119
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 119
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 119
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 97
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 97
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 97
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 97
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 97
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 97
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 97
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 97
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 97
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 97
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 97
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 97
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 97
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_39
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 97
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 97
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_41
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 97
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_42
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 72
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_44
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 72
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_47
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 72
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 72
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_49
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 72
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 72
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 72
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 72
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_53
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 72
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 72
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_55
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 72
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_56
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 72
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 72
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_58
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 72
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_59
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 72
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_60
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 72
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_61
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 44
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 44
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 44
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 44
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_65
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 44
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_67
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 44
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_68
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 44
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_69
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 12
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_70
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 12
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_73
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 7
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_74
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 11
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_75
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 12
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_76
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 12
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 12
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_80
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 12
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 12
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pokemon_82
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 12
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

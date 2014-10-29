@@ -8,4 +8,11 @@ public static class GameControl  {
 	public static int score = 0;
 	// Use this for initialization
 	
-}
+}     
+
+
+
+
+   
+
+ 

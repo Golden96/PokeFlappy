@@ -8,7 +8,7 @@ public class TorreScript : MonoBehaviour {
 
 	void Update () {
 		movimiento = new Vector3 (vhorizontal, 0, 0);
-		if(!GameControl.dead) {
+		if(!GameControl.dead)  {
 		transform.Translate (movimiento * Time.deltaTime);
 
 	    }
