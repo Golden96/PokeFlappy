@@ -11,18 +11,19 @@ public class Movimiento_Script : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		var v = Input.GetAxis ("Vertical");
-		var h = Input.GetAxis ("Horizontal");
+		if (!GameControl.dead) {
+						var v = Input.GetAxis ("Vertical");
+						var h = Input.GetAxis ("Horizontal");
 
-		if (h < 0) {
-						transform.localScale = new Vector3 (-5, 5);
-				} else if (h > 0) {
-						transform.localScale = new Vector3 (5, 5);
-				}
+						if (h < 0) {
+								transform.localScale = new Vector3 (-5, 5,5);
+						} else if (h > 0) {
+								transform.localScale = new Vector3 (5, 5,5);
+						}
 		 
-		movimiento = new Vector3 (vhorizontal * h, vvertical * v, 0);
-		transform.Translate (movimiento * Time.deltaTime);
-
+						movimiento = new Vector3 (vhorizontal * h, vvertical * v, 0);
+						transform.Translate (movimiento * Time.deltaTime);
+				}
 
 
 	

@@ -11,7 +11,16 @@ public class MuerteScript : MonoBehaviour {
 	}
 
 
+ void	OnCollisionEnter2D(Collision2D col){
 
+
+		if (col.transform.tag == "Player") {
+			GameControl.dead = true;
+				}
+					
+
+
+	}
   
 
 
